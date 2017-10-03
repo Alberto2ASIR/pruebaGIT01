@@ -25,6 +25,7 @@ Parte 1. Creación de una cuenta en GitHub y creación de un repositorio
 6. Usuario A: accede a tu repositorio, en concreto a la pestaña Settings → Collaborators, y da de alta al usuario B localizándolo por su nombre de usuario o por su correo electrónico
 7. Usuario B: comprueba que puedes acceder al repositorio. A partir de ahora utilizaréis el repositorio compartido por el usuario A.
 
+Vamos a trabajar con Java en este módulo profesional
 Parte 2. Modificación del proyecto: la rama master y la operación commit
 
 La versión principal del proyecto es la rama master. Vamos a realizar modificaciones en ella.
