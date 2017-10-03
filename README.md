@@ -1,4 +1,4 @@
 # pruebaGIT01
-##Esta es una pruba de GIT
+## Esta es una pruba de GIT
 
-###Hola que tal buena tarde
+### Hola que tal buena tarde
