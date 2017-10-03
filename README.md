@@ -74,3 +74,6 @@ Elimina ahora el repositorio, siguiendo los siguientes pasos:
 2. Comprobad que sólo el usuario que creó el repositorio tiene una pestaña accesible llamada Settings
 3. En esa pestaña, en la parte inferior, está la opción para eliminar el repositorio
 
+
+Vamos a trabajar con Java en este módulo profesional
+
